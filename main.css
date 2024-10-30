@@ -77,3 +77,8 @@
     font-family: "MS PMincho";
     src: local("Noto Sans JP");
 }
+
+@font-face {
+    font-family: "BIZ UDGothic";
+    src: local("Noto Sans JP");
+}
