@@ -54,6 +54,11 @@
 }
 
 @font-face {
+    font-family: "Yu Gothic UI";
+    src: local("Noto Sans JP");
+}
+
+@font-face {
     font-family: "游ゴシック";
     src: local("Noto Sans JP");
 }
@@ -79,6 +84,6 @@
 }
 
 @font-face {
-    font-family: "BIZ UDGothic";
+    font-family: "BIZ-UDGothic";
     src: local("Noto Sans JP");
 }
